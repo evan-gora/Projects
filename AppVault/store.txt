@@ -1,0 +1,288 @@
+App
+X
+The trusted global digital town square
+X Corp
+Social Media
+iOS, Android, Browser
+10.18.0
+0.0
+https://twitter.com/?lang=en
+{
+I LOVE ELON MUSK!
+}
+App
+Snapchat
+A fast and fun way to share the moment with your friends and family
+Snap, Inc.
+Social Media
+iOS, Android
+12.60.0.57
+0.0
+https://www.snapchat.com/
+{
+I am not a fan of some of the new features added in the recent updates.
+}
+App
+Temple Run 2
+Grab the idol and run!
+Imangi Studios, LLC.
+Gaming
+iOS, Android
+1.106.0
+0.0
+https://apps.apple.com/us/app/temple-run-2/id572395608
+{
+The amount of ads on this game bothers me quite a bit.
+}
+App
+Instagram
+Bringing you closer to the people and things you love.
+Meta Platforms
+Social Media
+iOS, Android, Browser
+309.1.1
+0.0
+https://www.instagram.com/
+{
+Good overall app. It does what I need it to do well.
+}
+App
+Clash of Clans
+Lead your clan to victory!
+Supercell
+Gaming
+iOS, Android, PC
+15.547.11
+0.0
+https://supercell.com/en/games/clashofclans/
+{
+It is frustrating how long upgrades take as you progress farther into the game.
+}
+App
+Facebook
+Explore, connect, and share your interests with real people
+Meta Platforms
+Social Media
+iOS, Android, Browser
+441.1.0
+0.0
+https://www.facebook.com/
+{
+You cannot say your opinion, they will ban you over anything!
+}
+App
+Clash Royale
+Epic Real-Time PvP Battles!
+Supercell
+Gaming
+iOS, Android
+4.88.4
+0.0
+https://supercell.com/en/games/clashroyale/
+{
+I have been playing this game pretty much since it came out and have not been able to stop playing.
+}
+App
+Foodvisor
+The last health and nutrition app you will need!
+Foodvisor
+Health and Wellness
+iOS, Android
+6.4.2
+0.0
+https://www.foodvisor.io/en/
+{
+The right way to lose weight for good!
+}
+App
+Fidelity Investments
+Invest at a firm invested in you.
+Fidelity Investments
+Finance
+iOS, Android, Browser
+3.87
+0.0
+https://www.fidelity.com/
+{
+One of the best I have come across so far.
+}
+App
+PNC Mobile Banking
+Check balances and recent transactions - All on the go.
+PNC Bank, N. A.
+Finance
+iOS, Android
+4.42
+0.0
+https://www.pnc.com/en/personal-banking/banking/online-and-mobile-banking/mobile-banking.html
+{
+The PNC banking app is great! It can be a little slow at times but it saves me from running to and from the bank.
+}
+App
+Nike Run Club: Running Coach
+Training plans, guided runs, and wellness tips
+Nike, Inc.
+Health and Wellness
+iOS, Android
+7.30.0
+0.0
+https://www.nike.com/nrc-app
+{
+I love the guided runs! It makes it easy for me to go and get a good workout.
+}
+App
+Venmo
+A fast, safe, and social way to send and receive money
+Venmo
+Finance
+iOS, Android, Browser
+10.31.1
+0.0
+https://venmo.com/
+{
+I love how easy it is to send money with Venmo!
+}
+App
+Impulse - Brain Testing
+A great way to improve your mental health and brain function
+GMRD Apps Limited
+Health and Wellness
+iOS, Android
+1.30.4
+0.0
+https://apps.apple.com/us/app/impulse-brain-training/id1451295827
+{
+There are so many ads trying to get you to pay to remove them.
+This app is great for training my brain!
+}
+App
+Discover Mobile
+Easily manage your discover credit card
+Discover Financial Services
+Finance
+iOS, Android, Browser
+2322.1
+0.0
+https://www.discover.com/credit-cards/member-benefits/mobile/
+{
+Best credit card and credit card app ever!
+}
+App
+Retro Bowl
+Play football like it's 1987!
+New Star Games
+Gaming
+iOS, Android, Browser 
+1.5.91
+0.99
+https://retrobowl.me/
+{
+This game is without a doubt one of my favorite games I play.
+}
+App
+Plants vs. Zombies
+The zombies are coming!
+Electronic Arts
+Gaming
+iOS, Android
+3.4.2
+0.99
+https://www.ea.com/ea-studios/popcap/plants-vs-zombies
+{
+The gameplay of Plants vs. Zombies is awesome!
+}
+App
+BetterSleep: Relax and Sleep
+Helps you understand and improve your sleep
+Ipnos Software Inc.
+Health and Wellness
+iOS, Android
+23.17
+1.99
+https://www.bettersleep.com/
+{
+This app has been one of the best things I have downloaded. I have never slept better!
+}
+App
+EAFC 24
+FIFA
+EA Sports
+Gaming
+XBox, PlayStation, PC
+1.0.1
+59.99
+https://www.ea.com/games/ea-sports-fc/fc-24/buy?gad_source=1&gclid=EAIaIQobChMIod-K1bbmggMV42JHAR1S1g2aEAAYASAAEgKtW_D_BwE&gclsrc=aw.ds
+{
+}
+App
+Snow Runner
+Conquer dangerous territory alone or with friends!
+Focus Entertainment
+Gaming
+XBox, PlayStation, Switch, macOS, Windows
+1.01.3
+29.99
+https://www.focus-entmt.com/en/games/snowrunner
+{
+}
+App
+iFinance 5
+iFinance helps you keep track of your income and spending in the most convenient and fastest way.
+Synium Software GmbH
+Finance
+macOS
+5.1.3
+16.99
+https://apps.apple.com/us/app/ifinance-5/id1500241909
+{
+}
+App
+Quantumult X
+Quantumult X is a powerful network tool for web developers and users who need to customize their proxies on iOS and macOS.
+Cross Utility Ltd.
+Productivity
+iOS, macOS
+1.4.2
+7.99
+https://apps.apple.com/us/app/quantumult-x/id1443988620
+{
+}
+Request
+https://apps.apple.com/us/app/adobe-lightroom/id1451544217?mt=12
+Adobe Lightroom
+User
+dc77
+password12
+false
+false
+false
+User
+NotDC77
+password123
+false
+true
+true
+User
+snewball
+samsam12
+false
+false
+false
+User
+johnkosh7
+Incorrect
+false
+false
+false
+User
+spongebob
+ilovesandy
+false
+false
+false
+User
+fortniteluvr
+ogfortnite1
+false
+false
+false
